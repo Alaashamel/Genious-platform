@@ -1,5 +1,8 @@
 # Genious Platform
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Last Commit](https://img.shields.io/github/last-commit/Alaashamel/Genious-platform)
+
+
 Genious Platform — a Code project by Alaashamel.
 
 ## ✨ Features
